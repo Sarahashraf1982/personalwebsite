@@ -1,0 +1,151 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: "Merriweather", serif;
+    color: #40514E;
+}
+
+h1 {
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+    font-family: "Sacramento", cursive;
+    color: #66bfbf;
+}
+
+h2 {
+    font-family: "Montserrat", sans-serif;
+    font-size: 2.5rem;
+    color: #66BFBF;
+    font-weight: normal;
+    padding-bottom: 10px;
+}
+
+h3 {
+    font-family: "Montserrat", sans-serif;
+    color: #11999E;
+}
+
+hr {
+    border: dotted #f76b8a 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+
+p {
+    line-height: 2;
+}
+
+.contact-message {
+    width: 40%;
+    margin: 40px auto 60px;
+}
+
+.top-container {
+    background-color: #eaf6f6;
+    position: relative;
+    padding-top: 100px;
+}
+
+.middle-container {
+    margin: 100px auto;
+}
+
+.bottom-container {
+    background-color: #66BFBF;
+    padding: 50px 0 20px;
+}
+
+.pro {
+    text-decoration: underline;
+}
+
+.intro {
+    width: 44%;
+    margin: auto;
+}
+
+.footer-link {
+    color: #11999E;
+    font-family: "Montserrat", sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+
+.footer-link:hover {
+    color: #EAF6F6;
+}
+
+.copyright {
+    color: #EAF6F6;
+    font-size: 0.75rem;
+    padding: 20px 0;
+}
+
+.btn {
+
+    background: linear-gradient(to bottom, #11cdd4 5%, #11999e 100%);
+    background-color: #11cdd4;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    border-radius: 8px;
+    display: inline-block;
+    cursor: pointer;
+    color: #ffffff;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    padding: 15px 21px;
+    text-decoration: none;
+}
+
+
+
+.btn:hover {
+
+    background: linear-gradient(to bottom, #30E3CB 5%, #2BC4AD 100%);
+    background-color: #30E3CB;
+
+}
+
+
+
+.btn:active {
+
+    position: relative;
+    top: 1px;
+
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 40px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 250px;
+    bottom: 475px;
+}
+
+.footer-link {
+    color: #11999E;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+
+.digital-image {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.meeting-image {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
